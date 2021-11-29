@@ -50,5 +50,5 @@ https://console.developers.google.com/apis/api/firestore.googleapis.com/overview
 https://console.developers.google.com/apis/api/firestore.googleapis.com/overview?project=22436404842
 
 
-## Try creating firestore using this blog
-https://binx.io/blog/2020/07/06/enabling-firestore-from-terraform/# terraform-gcp-firebase
+## Creating firestore using this blog on folder "terraformBlog"
+https://binx.io/blog/2020/07/06/enabling-firestore-from-terraform/
